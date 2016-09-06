@@ -1,4 +1,5 @@
-Name: 
- Favorite Movie: 
- Favorite Food: 
- Favorite Candy:
+Name:Jung Chen
+ Favorite Movie: Shawshank Redemption 
+ Favorite Food: Drunken Noodles
+ Favorite Candy: Snickers
+ Birthdate: 06-03-86
